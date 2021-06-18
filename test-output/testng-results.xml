@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+      <class name="com.hcl.testNG.TestNGDemo">
+        <test-method status="PASS" signature="browsersetup()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="browsersetup" is-config="true" duration-ms="17" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="browserlaunch" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+        <test-method status="PASS" signature="navigate()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="navigate" is-config="true" duration-ms="3" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="login" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="demo2()[pri:1, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="demo2" duration-ms="3" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="Logout" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="login" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="demo()[pri:2, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="demo" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="Logout" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="verification()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="verification" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verification -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="browserClose" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="cookies()[pri:0, instance:com.hcl.testNG.TestNGDemo@610694f1]" name="cookies" is-config="true" duration-ms="0" started-at="2021-06-10T11:24:42 IST" finished-at="2021-06-10T11:24:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cookies -->
+      </class> <!-- com.hcl.testNG.TestNGDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
